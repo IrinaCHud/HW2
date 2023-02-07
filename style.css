@@ -1,0 +1,46 @@
+a {
+    text-decoration: none;
+}
+
+.menu {
+    color: cornflowerblue;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+
+.zag_1 {
+    color: #222222;
+    font-size: 28px;
+    line-height: 36px;
+    font-weight: bold;
+}
+
+.par {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 30px;
+    color: #760525
+}
+
+.zag_2 {
+    color: #79A93B;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 80px;
+}
+
+.foto {
+    border-radius: 20px;
+    outline: none;
+    border: 5px solid #e6b4b4;
+
+}
+
+body {
+    background: linear-gradient(#CFE2A4, #E0C1AF, #DFABB2)
+}
+
+/* не могу понять почему на главной странице градиент не делает плавный переход */
